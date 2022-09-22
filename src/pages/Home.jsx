@@ -5,6 +5,8 @@ export const Home = () => { // retirado 'export default'
   return (
     <div>
       <h1>Meu site pokemon</h1>
+      <Pokemon name="Pikachu" />
+      <Pokemon name="Charm" />
       <Pokemon />
     </div>
 
